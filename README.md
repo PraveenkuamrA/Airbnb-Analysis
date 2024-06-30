@@ -9,4 +9,3 @@ and create dynamic plots to gain insights into pricing variations, availability 
 #### 4 . Conduct price analysis and visualization, exploring variations based on location, property type, and seasons using dynamic plots and charts.
 #### 5 . Analyze availability patterns across seasons, visualizing occupancy rates and demand fluctuations using suitable visualizations.
 #### 6 . Create interactive visualizations that enable users to filter and drill down into the data.
-#### 7 . 
